@@ -13,7 +13,7 @@ public class Main {
             System.out.println(c);
         }
 
-        scanner.close();
-        System.out.println(charArray);
+        //scanner.close();
+        //System.out.println(charArray);
     }
 }
