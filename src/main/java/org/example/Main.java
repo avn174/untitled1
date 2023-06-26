@@ -9,7 +9,7 @@ public class Main {
         //char[] charArray = inputString.toCharArray();
 
 
-        for (char c : charArray) {
+        for (char c5 : charArray) {
             System.out.println(c);
         }
 
